@@ -9,15 +9,33 @@
 
 # 💻 Tech Stack:
 
-![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/sql-%230074C1.svg?style=for-the-badge&logo=databricks&logoColor=white)
+## 📊 Data Analytics & BI
 ![Tableau](https://img.shields.io/badge/tableau-%23E97627.svg?style=for-the-badge&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/power%20bi-%23F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black)
-![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white)
-![Streamlit](https://img.shields.io/badge/streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
-![MS SQL Server](https://img.shields.io/badge/ms%20sql%20server-%23CC2927.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Excel](https://img.shields.io/badge/excel-%23217346.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+## 🗄️ Databases & SQL
+![SQL](https://img.shields.io/badge/sql-%230074C1.svg?style=for-the-badge&logo=databricks&logoColor=white)
+![MS SQL Server](https://img.shields.io/badge/ms%20sql%20server-%23CC2927.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white)
+
+## 🐍 Programming & Automation
+![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Streamlit](https://img.shields.io/badge/streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
+
+## 🏗️ Data Engineering & Platforms
 ![Oracle Linux](https://img.shields.io/badge/oracle%20linux-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
+![ETL](https://img.shields.io/badge/data%20ingestion-%234285F4.svg?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![CSV](https://img.shields.io/badge/csv%20|%20excel%20|%20json-%23007ACC.svg?style=for-the-badge&logo=files&logoColor=white)
+
+## 📈 Analytics Concepts
+![KPI](https://img.shields.io/badge/kpi%20design-%2300A98F.svg?style=for-the-badge&logo=chartdotjs&logoColor=white)
+![EDA](https://img.shields.io/badge/exploratory%20analysis-%236A5ACD.svg?style=for-the-badge&logo=googleanalytics&logoColor=white)
+![Forecasting](https://img.shields.io/badge/forecasting-%23FF9800.svg?style=for-the-badge&logo=chartjs&logoColor=white)
+
+## 🛠️ Tools & DevOps
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=abhaydubey200&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
