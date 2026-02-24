@@ -1,6 +1,8 @@
 # 💫 About Me:
-B.Tech Computer Science student <br> Software & Full-Stack Developer <br> Passionate about technology & innovation <br> Let's create something amazing! 🚀
-
+<p>
+  <strong>Data Analytics & BI Engineer</strong> skilled in SQL, Tableau, Snowflake, Python, and Streamlit.<br>
+  Building scalable analytics solutions, executive dashboards, and data-driven decision systems 🚀
+</p>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/premnarayan.dubey.560) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr.cyber2004) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhay-32602024b) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mr_cyber2004) 
